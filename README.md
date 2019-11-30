@@ -1,5 +1,4 @@
 # Horses_Idiro
-Group Repo for the Horse dataset
 
 **Heredity:**
 Are there Dams/Sires etc. with best/worst offspring. How much does heredity matter, affect offspring performance?
@@ -34,8 +33,10 @@ https://youtu.be/YOVrZrJ-wtc?t=1400
 Nice Demonstration of the problem: https://youtu.be/658xlubwnDc?t=1887
 
 **Distance preference of horses:**
+Would need additional data here. Sectionals, finish times.
 
 **How good are tipsters?**
+Wuold need to source some data to test this.
 
 **Inefficiency of betting market?**
 Favourite long-shot bias, price swings, insider knowledge etc.
@@ -45,3 +46,12 @@ Bet on favourite or long shot? Or other simple features that the punter can use 
 
 **Bet Sizing**
 Kelly Criterion and its alternates. Nice demo here: https://youtu.be/658xlubwnDc?t=1190
+Could we connect p values and Kelly criterion to some kind of business applicable heuristic? Depending on the pvalue your Data team give you, informs the business decision in a more systematic way than gut feeling.
+
+
+**To-Do List**
+Break out form column into separate columns.
+Scrape positional data.
+Transform Trainer/Jockey/Owner columns into something more usable. Perhaps a rating for each Tr/Jo/Ow, similar to Elo.
+Add bet sizing and multiple bets to RL agent.
+Concoct rules based strategy for bet size and multi-bet.
