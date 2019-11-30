@@ -26,7 +26,12 @@ Generally accepted there’s better value to be had in place bets. Can we scrape
 
 
 **Tote market:**
-Best strategy? Anything interesting to say here?
+Strategy Ideas? Anything interesting to say here? 
+How to assign probabilities to finishing order? Probit model, Ziemba & Hausch, Asch & Quandt, Bolton & Chapman, Brecher, Benter
+
+https://youtu.be/YOVrZrJ-wtc?t=1400
+
+Nice Demonstration of the problem: https://youtu.be/658xlubwnDc?t=1887
 
 **Distance preference of horses:**
 
@@ -38,3 +43,5 @@ Favourite long-shot bias, price swings, insider knowledge etc.
 **What are the best strategies for betting?**
 Bet on favourite or long shot? Or other simple features that the punter can use at the track? Is there something more complex we can do? Compare performance of random betting, betting on long shot, favourite, other simple strategies, some cleverer ones. Use Monte Carlo sims to do this.
 
+**Bet Sizing**
+Kelly Criterion and its alternates. Nice demo here: https://youtu.be/658xlubwnDc?t=1190
