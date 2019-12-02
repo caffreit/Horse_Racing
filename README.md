@@ -50,7 +50,8 @@ Could we connect p values and Kelly criterion to some kind of business applicabl
 
 
 **To-Do List**
-Break out form column into separate columns.
+
+Break out the horse_form column into separate columns. How to handle the letters etc.
 
 Scrape positional data.
 
