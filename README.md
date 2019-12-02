@@ -51,7 +51,11 @@ Could we connect p values and Kelly criterion to some kind of business applicabl
 
 **To-Do List**
 Break out form column into separate columns.
+
 Scrape positional data.
+
 Transform Trainer/Jockey/Owner columns into something more usable. Perhaps a rating for each Tr/Jo/Ow, similar to Elo.
+
 Add bet sizing and multiple bets to RL agent.
+
 Concoct rules based strategy for bet size and multi-bet.
