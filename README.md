@@ -26,7 +26,7 @@ Generally accepted there’s better value to be had in place bets. Can we scrape
 
 
 **Tote market:**
-Strategy Ideas? Anything interesting to say here? 
+Strategy Ideas? Exotic Bets (Exacta, Trifecta, Quinella) tend to have better value. I think due to misestimation of the more complicated set of outcomes. Or the cumulative effect of misestimation of odds.
 How to assign probabilities to finishing order? Probit model, Ziemba & Hausch, Asch & Quandt, Bolton & Chapman, Brecher, Benter
 
 https://youtu.be/YOVrZrJ-wtc?t=1400
