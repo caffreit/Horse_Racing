@@ -14,8 +14,9 @@ Is there a simple way to transform this to a single number the punter could use 
 Is there a more complicated way we could use with a computer to get value?
 
 **Jockey/Trainer/Owner:**
-How much does a jockey add to a horse’s performance. How do we disentangle the effect of the horse and the jockey on the outcome of the race. How much value (not punter value) does the jockey bring? (Shapley values, Causal inference to remove confounder…?)
-Are there trainer-trainer, trainer-jockey, trainer-owner, pairs that we can show are in cahoots. Price swings, favourites underperforming more than expected.
+How much does a jockey add to a horse’s performance. How do we disentangle the effect of the horse and the jockey on the outcome of the race. How much value (to horse performance) does the jockey bring? (Shapley values, Causal inference to remove confounder…?)
+
+Are there trainer-trainer, trainer-jockey, trainer-owner, pairs that we can show are in cahoots. Price swings, favourites underperforming more than expected. https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis
 
 **Price movement:**
 If there is a large price move, what does that mean for betting. If it shortens, is this inside info should we pile in? Betting by insiders?
