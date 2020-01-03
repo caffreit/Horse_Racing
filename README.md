@@ -24,6 +24,8 @@ If there is a large price move, what does that mean for betting. If it shortens,
 **Place bets:**
 Generally accepted there’s better value to be had in place bets. Can we scrape timeform site to get finishing positions? Can we show better value in the each way bets?
 
+https://www.timeform.com/commercial/products/api
+
 
 **Tote market:**
 Strategy Ideas? Exotic Bets (Exacta, Trifecta, Quinella) tend to have better value. I think due to misestimation of the more complicated set of outcomes. Or the cumulative effect of misestimation of odds.
