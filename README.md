@@ -64,7 +64,10 @@ Add bet sizing and multiple bets to RL agent.
 
 Concoct rules based strategy for bet size and multi-bet.
 
-Features:
+**Features:**
+
 Induced Odds (from BackPrice)
+
 Induced Odds (correct for OverRound & Fav-LongShot Bias)
-Capture large change in Price and Amnt Backed
+
+Capture large change in Price and Amnt Backed (Del_P = P_t+1 - P_t, take StDev or Max from list of Del_P's)
