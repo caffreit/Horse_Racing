@@ -54,7 +54,7 @@ Could we connect p values and Kelly criterion to some kind of business applicabl
 
 **To-Do List**
 
-Break out the horse_form column into separate columns. How to handle the letters etc.
+~~Break out the horse_form column into separate columns. How to handle the letters etc.~~
 
 Scrape positional data.
 
@@ -63,3 +63,8 @@ Transform Trainer/Jockey/Owner columns into something more usable. Perhaps a rat
 Add bet sizing and multiple bets to RL agent.
 
 Concoct rules based strategy for bet size and multi-bet.
+
+Features:
+Induced Odds (from BackPrice)
+Induced Odds (correct for OverRound & Fav-LongShot Bias)
+Capture large change in Price and Amnt Backed
