@@ -1,6 +1,6 @@
 # Horses_Idiro
 
-**Reading Material**
+**Reading Material:**
 https://drive.google.com/open?id=1-KaL1i8dwFU-pGJKVzasRCT5wxjGcXo7
 
 **Heredity:**
