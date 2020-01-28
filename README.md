@@ -18,6 +18,7 @@ Is there a more complicated way we could use with a computer to get value?
 
 **Jockey/Trainer/Owner:**
 How much does a jockey add to a horse’s performance. How do we disentangle the effect of the horse and the jockey on the outcome of the race. How much value (to horse performance) does the jockey bring? (Shapley values, Causal inference to remove confounder…?)
+http://bayes.cs.ucla.edu/home.htm
 
 Are there trainer-trainer, trainer-jockey, trainer-owner, pairs that we can show are in cahoots. Price swings, favourites underperforming more than expected. https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis
 
