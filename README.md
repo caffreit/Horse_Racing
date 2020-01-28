@@ -31,7 +31,9 @@ https://historicdata.betfair.com/#/home
 **Place bets:**
 Generally accepted there’s better value to be had in place bets. Can we scrape timeform site to get finishing positions? Can we show better value in the each way bets?
 
-https://www.timeform.com/commercial/products/api
+https://www.timeform.com/horse-racing/shop/sectional-times has finish positions
+
+https://www.timeform.com/commercial/products/api just has timeform rating etc.
 
 
 **Tote market:**
@@ -44,6 +46,8 @@ Nice Demonstration of the problem: https://youtu.be/658xlubwnDc?t=1887
 
 **Distance preference of horses:**
 Would need additional data here. Sectionals, finish times.
+
+https://www.timeform.com/horse-racing/shop/sectional-times
 
 **How good are tipsters?**
 Wuold need to source some data to test this.
