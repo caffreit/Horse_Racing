@@ -43,6 +43,8 @@ How to assign probabilities to finishing order? Probit model, Ziemba & Hausch, A
 
 https://youtu.be/YOVrZrJ-wtc?t=1400
 
+Probability distribution of finish times/positions, sample at random for each horse building up a frequency/probability distribution of finishing positions.
+
 Nice Demonstration of the problem: https://youtu.be/658xlubwnDc?t=1887
 
 **Distance preference of horses:**
@@ -58,7 +60,7 @@ https://www.tippingsports.com/betting-tips/tips
 Favourite long-shot bias, price swings, insider knowledge etc.
 
 **What are the best strategies for betting?**
-Bet on favourite or long shot? Or other simple features that the punter can use at the track? Is there something more complex we can do? Compare performance of random betting, betting on long shot, favourite, other simple strategies, some cleverer ones. Use Monte Carlo sims to do this.
+Bet on favourite or long shot? Or other simple features that the punter can use at the track? Is there something more complex we can do? Compare performance of random betting, betting on long shot, favourite, other simple strategies, some cleverer ones. Use Monte Carlo sims to do this. Risk of ruin, random walk. How best to allocate bet over multiple favourable bets? Betting Strategies Ravi Phatarfod
 
 **Bet Sizing**
 Kelly Criterion and its alternates. Nice demo here: https://youtu.be/658xlubwnDc?t=1190
@@ -69,7 +71,7 @@ Could we connect p values and Kelly criterion to some kind of business applicabl
 
 ~~Break out the horse_form column into separate columns. How to handle the letters etc.~~
 
-Scrape positional data.
+Scrape/Buy positional data.
 
 Transform Trainer/Jockey/Owner columns into something more usable. Perhaps a rating for each Tr/Jo/Ow, similar to Elo.
 
