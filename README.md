@@ -8,6 +8,8 @@ Are there Dams/Sires etc. with best/worst offspring. How much does heredity matt
 Do certain parents give offspring with particular traits? Sprinter, long distance etc.
 We have very few dams/sires running in our dataset (just the offspring) so we can’t check how parental traits affect offspring traits.
 
+https://www.theguardian.com/science/2014/jun/22/horse-breeding-genetics-thoroughbreds-racing-dna
+
 **Handicap:**
 Does the handicap have the desired effect on horse performance. Is it too light/heavy? What is the ideal?
 Is there room for improvement? If handicaps are too heavy or too light to mitigate recent performance is there value in betting on over/under-handicapped horses?
@@ -56,6 +58,8 @@ https://www.timeform.com/horse-racing/shop/sectional-times
 Wuold need to source some data to test this.
 https://www.tippingsports.com/betting-tips/tips
 
+https://www.kaggle.com/gunner38/horseracing
+
 **Inefficiency of betting market?**
 Favourite long-shot bias, price swings, insider knowledge etc.
 
@@ -93,6 +97,9 @@ Concoct rules based strategy for bet size and multi-bet.
 
 Sectionals & Finish Times: https://www.timeform.com/horse-racing/shop/sectional-times
 
-Tipsters: https://www.tippingsports.com/betting-tips/tips
+Tipsters: https://www.tippingsports.com/betting-tips/tips  
+https://www.kaggle.com/gunner38/horseracing
 
 Prices: https://historicdata.betfair.com/#/home
+
+Hong Kong: https://www.kaggle.com/gdaley/hkracing  https://www.kaggle.com/hrosebaby/horse-racing-dataset-for-experts-hong-kong
