@@ -43,6 +43,7 @@ Would need additional data here. Sectionals, finish times.
 
 **How good are tipsters?**
 Wuold need to source some data to test this.
+https://www.tippingsports.com/betting-tips/tips
 
 **Inefficiency of betting market?**
 Favourite long-shot bias, price swings, insider knowledge etc.
