@@ -88,3 +88,11 @@ Concoct rules based strategy for bet size and multi-bet.
 ~~Capture large change in Price and Amnt Backed (Del_P = P_t+1 - P_t, take StDev or Max from list of Del_P's)~~
 
 ~~Amount backed on horse as a fraction of total amount backed~~
+
+**Possible Data Sources**
+
+Sectionals & Finish Times: https://www.timeform.com/horse-racing/shop/sectional-times
+
+Tipsters: https://www.tippingsports.com/betting-tips/tips
+
+Prices: https://historicdata.betfair.com/#/home
