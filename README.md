@@ -24,6 +24,10 @@ Are there trainer-trainer, trainer-jockey, trainer-owner, pairs that we can show
 **Price movement:**
 If there is a large price move, what does that mean for betting. If it shortens, is this inside info should we pile in? Betting by insiders?
 
+https://historicdata.betfair.com/#/help
+
+https://historicdata.betfair.com/#/home
+
 **Place bets:**
 Generally accepted there’s better value to be had in place bets. Can we scrape timeform site to get finishing positions? Can we show better value in the each way bets?
 
