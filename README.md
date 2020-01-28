@@ -60,7 +60,7 @@ https://www.tippingsports.com/betting-tips/tips
 Favourite long-shot bias, price swings, insider knowledge etc.
 
 **What are the best strategies for betting?**
-Bet on favourite or long shot? Or other simple features that the punter can use at the track? Is there something more complex we can do? Compare performance of random betting, betting on long shot, favourite, other simple strategies, some cleverer ones. Use Monte Carlo sims to do this. Risk of ruin, random walk. How best to allocate bet over multiple favourable bets? Betting Strategies Ravi Phatarfod
+Bet on favourite or long shot? Or other simple features that the punter can use at the track? Is there something more complex we can do? Compare performance of random betting, betting on long shot, favourite, other simple strategies, some cleverer ones. Use Monte Carlo sims to do this. Risk of ruin, random walk. How best to allocate bet over multiple favourable bets? MathSport pg 219
 
 **Bet Sizing**
 Kelly Criterion and its alternates. Nice demo here: https://youtu.be/658xlubwnDc?t=1190
