@@ -3,6 +3,14 @@
 **Reading Material:**
 https://drive.google.com/open?id=1-KaL1i8dwFU-pGJKVzasRCT5wxjGcXo7
 
+https://www.pinnacle.com/en/betting-resources/archive
+
+https://ideas.repec.org/s/bpj/jqsprt.html
+
+http://ubplj.org/index.php/jpm/index
+
+http://www.ubplj.org/index.php/jgbe/index
+
 **Heredity:**
 Are there Dams/Sires etc. with best/worst offspring. How much does heredity matter, affect offspring performance?
 Do certain parents give offspring with particular traits? Sprinter, long distance etc.
