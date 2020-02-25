@@ -11,6 +11,13 @@ http://ubplj.org/index.php/jpm/index
 
 http://www.ubplj.org/index.php/jgbe/index
 
+
+**Going:**
+Needs to be scraped.
+Horse Racing Ireland:https://www.goracing.ie/race-meetings/results/race-result/?date=2018-02-10&race=1335&venue=NS 
+British Horse Racing Authority: https://www.britishhorseracing.com/racing/results/fixture-results/#!/2018/853
+
+
 **Heredity:**
 Are there Dams/Sires etc. with best/worst offspring. How much does heredity matter, affect offspring performance?
 Do certain parents give offspring with particular traits? Sprinter, long distance etc.
