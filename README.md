@@ -11,6 +11,11 @@ http://ubplj.org/index.php/jpm/index
 
 http://www.ubplj.org/index.php/jgbe/index
 
+**Reinforcement Learning:**
+Create a Reinforcement Learning agent to pick horses to back/lay as appropriate. Backing multiple horses within a race. 
+
+Decide on optimum bet sizes (as a fraction of current a/c size). This is tricky as it will need to account for the problem of ergodicity. This rears its head in systems with multiplicative dynamics. Usually handled by taking the log of the expected value (utility function), aka Kelly Criterion.
+
 
 **Going:**
 Needs to be scraped.
