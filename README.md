@@ -94,7 +94,7 @@ Scrape/Buy positional data.
 
 Transform Trainer/Jockey/Owner columns into something more usable. Perhaps a rating for each Tr/Jo/Ow, similar to Elo.
 
-Add bet sizing and multiple bets to RL agent.
+Add bet sizing and multiple bets to Reinforcement Learning agent.
 
 Concoct rules based strategy for bet size and multi-bet.
 
