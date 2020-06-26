@@ -1,4 +1,4 @@
-# Horses_Idiro
+# Horses_Racing
 
 **Reading Material:**
 https://drive.google.com/open?id=1-KaL1i8dwFU-pGJKVzasRCT5wxjGcXo7
